@@ -8,7 +8,8 @@
 
 - 📫 How to reach me: **davide.siracusano94@libero.it**
 
-- 📄 Know about my experiences: I have hands-on experience in web development technologies such as HTML5, CSS3, Flexbox, Bootstrap and JavaScript, I am committed to continuous learning and staying updated with the latest technologies trends. I started a master with Start2Impact and some courses on Udemy Academy, enhancing my skills in Web Development. This reflects my dedication to staying at the forefront of technological advancements. I have hands-on experience in web development technologies such as HTML5, CSS3, Flexbox, Bootstrap and JavaScript, I am committed to continuous learning and staying updated with the latest technologies trends. I started a master with Start2Impact and some courses on Udemy Academy, enhancing my skills in Web Development. This reflects my dedication to staying at the forefront of technological advancements. 🖥️
+- 📄 Know about my experiences: I have hands-on experience in web development technologies such as HTML5, CSS3, Flexbox, Bootstrap, TailwindCSS, JavaScript, React.js and Next.js.
+-  I am committed to continuous learning and staying updated with the latest technologies trends. I started a master with Start2Impact and some courses on Udemy Academy, enhancing my skills in Web Development. This reflects my dedication to staying at the forefront of technological advancements. I have hands-on experience in web development technologiesand I am committed to continuous learning and staying updated with the latest technologies trends. I started a master with Start2Impact (850h) and some courses on Udemy Academy, enhancing my skills in Web Development. This reflects my dedication to staying at the forefront of technological advancements. 🖥️
 
 - ⚡ Fun fact: **I prefer dark mode on my pc, 'cause light attracts bugs**
 
